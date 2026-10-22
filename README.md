@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.gif" width="100%" alt="Yokoso, Watashi wa Soul Society" />
+  <img src="assets/banner-ezgif.webp" width="100%" alt="Yokoso, Watashi wa Soul Society" />
 </p>
 
 <div align="center">
